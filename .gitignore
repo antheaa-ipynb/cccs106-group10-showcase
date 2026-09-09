@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+
+# Flet / OS generated files
+.flet/
+.DS_Store
+Thumbs.db
