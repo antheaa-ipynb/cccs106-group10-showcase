@@ -76,7 +76,7 @@ def get_initial_team() -> List[TeamMember]:
             github_handle="@teahBtsenhypentxtand2ble",          # example: "@areyes-cspc"
             avatar_icon=ft.Icons.BUG_REPORT,
             accent_color=ft.Colors.INDIGO_700,
-            photo_url="/dev3.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev3-github.png")
+            photo_url="/assets/thea.jpeg",                 # Photo: local asset or URL (e.g. "https://github.com/dev3-github.png")
         ),
     ]
     return members
